@@ -1,6 +1,6 @@
 # Prueba Técnica – Fullstack Developer
 
-## 📌 Descripción General
+##  Descripción General
 
 El objetivo de esta prueba es evaluar tu capacidad para diseñar e implementar una aplicación **Fullstack**, integrando:
 
