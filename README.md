@@ -12,7 +12,7 @@ La aplicación debe permitir que usuarios **anónimos** creen solicitudes median
 
 ---
 
-## 1. 🧭 Requerimiento Funcional
+## 1. Requerimiento Funcional
 
 ### 1.1 Usuario Anónimo
 - Accede sin autenticación.
@@ -35,7 +35,7 @@ La aplicación debe permitir que usuarios **anónimos** creen solicitudes median
 
 ---
 
-## 2. ⚙️ Funcionalidades Requeridas
+## 2. Funcionalidades Requeridas
 
 ### 2.1 Frontend (React)
 
@@ -110,7 +110,7 @@ Debes incluir una **breve justificación** de tu elección tecnológica.
 
 ```
 
-## 3. 🏗️ Infraestructura (IaC)
+## 3. Infraestructura (IaC)
 
 Debes declarar la infraestructura con:
 
@@ -134,7 +134,7 @@ o
 - S3 + Cloudfront (Frontend)
 
 
-## 4. 📦 Entregables
+## 4. Entregables
 
 Tu entrega debe incluir:
 
@@ -179,8 +179,8 @@ Tu entrega debe incluir:
 - Colección Postman/Insomnia
 
 
-## 5. 📝 Criterios de Evaluación
-### 🧩 Frontend
+## 5. Criterios de Evaluación
+### Frontend
 
 - Estructura del código
 
@@ -190,7 +190,7 @@ Tu entrega debe incluir:
 
 - Buenas prácticas de React
 
-### 🔧 Backend
+### Backend
 
 - Diseño y modularidad del código
 
@@ -200,7 +200,7 @@ Tu entrega debe incluir:
 
 - Implementación coherente
 
-### 🏗️ Infraestructura
+### Infraestructura
 
 - Uso adecuado de IaC
 
@@ -210,7 +210,7 @@ Tu entrega debe incluir:
 
 - Claridad del despliegue
 
-### ⭐ Calidad Global
+### Calidad Global
 
 - Documentación
 
@@ -220,7 +220,7 @@ Tu entrega debe incluir:
 
 - Simplicidad y legibilidad
 
-## 6. 📑 Instrucciones Finales
+## 6. Instrucciones Finales
 
 Mantén la solución simple y funcional.
 
